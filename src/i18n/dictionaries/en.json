@@ -1,0 +1,321 @@
+{
+  "meta": {
+    "siteTitle": "Asia Curated Travel",
+    "siteDescription": "Bespoke luxury travel experiences in Taiwan, Hong Kong, and China for discerning travelers.",
+    "home": {
+      "title": "Asia Curated Travel — Bespoke Journeys to Taiwan, Hong Kong & China",
+      "description": "Discover extraordinary travel experiences crafted for discerning travelers. Private tours, cultural immersion, and seamless luxury across Asia."
+    },
+    "howItWorks": {
+      "title": "How It Works — Asia Curated Travel",
+      "description": "From initial consultation to your journey home, discover our four-step process for creating your perfect Asia travel experience."
+    },
+    "travelStyles": {
+      "title": "Travel Styles — Asia Curated Travel",
+      "description": "Explore our curated travel packages and fully personalized journeys across Taiwan, Hong Kong, and China."
+    },
+    "experiences": {
+      "title": "Experiences — Asia Curated Travel",
+      "description": "Culinary adventures, cultural discoveries, scenic walks, and authentic local life — immerse yourself in the real Asia."
+    },
+    "about": {
+      "title": "About Us — Asia Curated Travel",
+      "description": "Meet the team behind Asia Curated Travel. Decades of on-the-ground expertise creating unforgettable journeys."
+    },
+    "contact": {
+      "title": "Contact Us — Asia Curated Travel",
+      "description": "Start planning your bespoke Asia journey. Get in touch with our travel consultants today."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "howItWorks": "How It Works",
+    "travelStyles": "Travel Styles",
+    "experiences": "Experiences",
+    "about": "About",
+    "contact": "Contact",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "languageSelect": "Select language",
+    "skipToContent": "Skip to content"
+  },
+  "home": {
+    "hero": {
+      "headline": "Extraordinary Journeys Through Asia",
+      "subheadline": "Bespoke travel experiences in Taiwan, Hong Kong, and China — crafted for discerning travelers who seek the authentic and the exceptional.",
+      "cta": "Begin Your Journey"
+    },
+    "services": {
+      "title": "Crafted With Care",
+      "subtitle": "Every journey begins with understanding your vision",
+      "curated": {
+        "title": "Curated Itineraries",
+        "description": "Thoughtfully designed journeys that balance iconic landmarks with hidden treasures, tailored to your pace and preferences."
+      },
+      "expertise": {
+        "title": "Local Expertise",
+        "description": "Deep on-the-ground knowledge from our team of regional specialists ensures authentic and meaningful encounters."
+      },
+      "seamless": {
+        "title": "Seamless Experience",
+        "description": "From private transfers to hand-picked accommodations, every detail is arranged so you can simply enjoy the journey."
+      }
+    },
+    "destinations": {
+      "title": "Our Destinations",
+      "subtitle": "Three remarkable corners of Asia",
+      "taiwan": {
+        "title": "Taiwan",
+        "description": "A treasure trove of natural beauty, ancient temples, and the world's finest culinary scene — from night markets to Michelin-starred dining."
+      },
+      "hongkong": {
+        "title": "Hong Kong",
+        "description": "Where East meets West in a dazzling fusion of culture, cuisine, and urban energy — with tranquil islands and trails just beyond."
+      },
+      "china": {
+        "title": "China",
+        "description": "An ancient civilization reimagined — from the Great Wall to misty mountains, imperial palaces to vibrant modern cities."
+      },
+      "explore": "Explore"
+    },
+    "why": {
+      "title": "Why Travel With Us",
+      "subtitle": "The difference is in the details",
+      "points": [
+        "Over 15 years of on-the-ground experience in Asia",
+        "Personally vetted hotels, restaurants, and guides",
+        "24/7 concierge support throughout your journey",
+        "Small, dedicated team — your consultant knows your name",
+        "Fluent in English, French, and Mandarin"
+      ]
+    },
+    "cta": {
+      "title": "Ready to Explore Asia?",
+      "description": "Tell us about your dream journey. Our consultants will craft a personalized proposal within 48 hours.",
+      "button": "Get in Touch"
+    }
+  },
+  "howItWorks": {
+    "hero": {
+      "title": "How It Works",
+      "subtitle": "From first conversation to lasting memories"
+    },
+    "steps": {
+      "step1": {
+        "number": "01",
+        "title": "Initial Consultation",
+        "description": "We begin with a personal conversation to understand your travel aspirations, preferences, and any special requirements. Whether by phone, video call, or email — we listen carefully."
+      },
+      "step2": {
+        "number": "02",
+        "title": "Tailored Proposal",
+        "description": "Within 48 hours, you receive a detailed, bespoke itinerary crafted around your interests. We include accommodation recommendations, experience suggestions, and transparent pricing."
+      },
+      "step3": {
+        "number": "03",
+        "title": "Refine & Confirm",
+        "description": "We refine every detail together until the journey is exactly right. Once confirmed, we handle all bookings, logistics, and special arrangements on your behalf."
+      },
+      "step4": {
+        "number": "04",
+        "title": "Travel & Enjoy",
+        "description": "Your journey unfolds seamlessly with our 24/7 concierge support. On the ground, our local team ensures every moment exceeds expectations."
+      }
+    },
+    "cta": {
+      "title": "Start Your Journey Today",
+      "description": "The first step is simply reaching out. We'd love to hear about your travel dreams.",
+      "button": "Contact Us"
+    }
+  },
+  "travelStyles": {
+    "hero": {
+      "title": "Travel Styles",
+      "subtitle": "Choose your path to discovery"
+    },
+    "curated": {
+      "title": "Curated Packages",
+      "subtitle": "Expertly designed journeys ready to inspire",
+      "packages": {
+        "classic": {
+          "title": "Classic Taiwan Discovery",
+          "duration": "10 days",
+          "description": "From Taipei's vibrant culture to Sun Moon Lake's serenity, experience Taiwan's essential highlights with insider access."
+        },
+        "hongkong": {
+          "title": "Hong Kong & Beyond",
+          "duration": "7 days",
+          "description": "The city's dazzling energy paired with serene outlying islands, heritage villages, and world-class dining."
+        },
+        "silk": {
+          "title": "Silk Road Heritage",
+          "duration": "14 days",
+          "description": "Journey through China's ancient trade routes — from Xi'an's terracotta warriors to the desert oases of Dunhuang."
+        },
+        "grand": {
+          "title": "Grand Asia Circuit",
+          "duration": "21 days",
+          "description": "The ultimate multi-destination journey combining the best of Taiwan, Hong Kong, and mainland China."
+        }
+      }
+    },
+    "personalized": {
+      "title": "Personalized Journeys",
+      "subtitle": "Your vision, our expertise",
+      "description": "Every traveler is unique. Our personalized journey service creates a completely bespoke itinerary built around your interests, pace, and travel style. From a romantic getaway to a multi-generational family adventure — we design it all from scratch.",
+      "features": [
+        "Completely flexible dates and duration",
+        "Hand-picked accommodations matching your style",
+        "Private guides and exclusive experiences",
+        "Dietary and accessibility considerations",
+        "Seamless multi-destination logistics"
+      ],
+      "cta": "Design Your Journey"
+    },
+    "cta": {
+      "title": "Find Your Perfect Style",
+      "description": "Not sure where to start? Our consultants will help you discover the journey that's right for you.",
+      "button": "Get in Touch"
+    }
+  },
+  "experiences": {
+    "hero": {
+      "title": "Experiences",
+      "subtitle": "Immerse yourself in the real Asia"
+    },
+    "intro": "Our experiences go beyond sightseeing. We connect you with the people, traditions, and flavors that make each destination extraordinary.",
+    "culinary": {
+      "title": "Culinary Journeys",
+      "description": "From bustling night markets to private chef's tables, explore Asia's extraordinary food culture. Learn the art of dumpling-making with a local grandmother, visit tea plantations at dawn, or dine at Asia's finest Michelin-starred restaurants.",
+      "highlights": ["Night market food tours", "Private cooking classes", "Tea ceremony experiences", "Michelin dining reservations"]
+    },
+    "cultural": {
+      "title": "Cultural Discoveries",
+      "description": "Step into living history through temple ceremonies, traditional arts workshops, and encounters with local artisans. From calligraphy masters to temple stays, these experiences offer profound connections to Asia's rich heritage.",
+      "highlights": ["Temple ceremonies & stays", "Traditional arts workshops", "Heritage architecture tours", "Festival celebrations"]
+    },
+    "walking": {
+      "title": "Walking & Nature",
+      "description": "Discover Asia's breathtaking landscapes on foot — from Taiwan's Taroko Gorge to Hong Kong's dramatic coastal trails. Our guided walks range from gentle heritage strolls to invigorating mountain treks.",
+      "highlights": ["Mountain trail adventures", "Coastal path walks", "Heritage neighborhood strolls", "National park explorations"]
+    },
+    "localLife": {
+      "title": "Local Life",
+      "description": "Experience daily life as locals do — visit morning markets with a chef, join a tai chi session in the park, explore artisan workshops, or share stories over tea with a local family. These authentic moments create the most treasured memories.",
+      "highlights": ["Morning market visits", "Artisan workshop visits", "Local family encounters", "Neighborhood discoveries"]
+    },
+    "cta": {
+      "title": "Curious About Our Experiences?",
+      "description": "Each experience can be woven into any itinerary. Tell us what excites you.",
+      "button": "Start a Conversation"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About Us",
+      "subtitle": "Passionate about Asia, dedicated to you"
+    },
+    "story": {
+      "title": "Our Story",
+      "paragraphs": [
+        "Asia Curated Travel was born from a simple conviction: that the most meaningful travel experiences come from genuine understanding — of a place, its people, and the traveler.",
+        "Founded by a team of Asia specialists with deep roots in Taiwan, Hong Kong, and China, we bridge the gap between Western travelers and the extraordinary richness of East Asia.",
+        "We are not a mass-market agency. We are a small consultancy of passionate individuals who personally know every hotel we recommend, every guide we engage, and every experience we suggest."
+      ]
+    },
+    "team": {
+      "title": "Our Team",
+      "subtitle": "The people behind your journey",
+      "members": {
+        "founder": {
+          "name": "Sophie Laurent",
+          "role": "Founder & Lead Consultant",
+          "description": "With 18 years living between Paris and Taipei, Sophie brings an unmatched dual perspective to luxury Asian travel."
+        },
+        "operations": {
+          "name": "James Chen",
+          "role": "Operations Director",
+          "description": "Born in Hong Kong and educated in London, James ensures every logistical detail runs with precision."
+        },
+        "china": {
+          "name": "Li Wei",
+          "role": "China Specialist",
+          "description": "A former historian turned travel designer, Li Wei reveals China's hidden stories to curious travelers."
+        }
+      }
+    },
+    "trust": {
+      "title": "Why Clients Trust Us",
+      "indicators": [
+        { "value": "15+", "label": "Years of Experience" },
+        { "value": "500+", "label": "Journeys Crafted" },
+        { "value": "98%", "label": "Client Satisfaction" },
+        { "value": "3", "label": "Languages Spoken" }
+      ]
+    },
+    "cta": {
+      "title": "Meet Us Over a Call",
+      "description": "We believe the best journeys start with a conversation. No pressure, no obligation — just a friendly chat about your travel dreams.",
+      "button": "Schedule a Consultation"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Let's start planning your journey"
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Full Name",
+      "namePlaceholder": "Your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "your@email.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+33 6 12 34 56 78",
+      "destination": "Interested Destination(s)",
+      "destinationPlaceholder": "e.g., Taiwan, Hong Kong, China",
+      "dates": "Approximate Travel Dates",
+      "datesPlaceholder": "e.g., Spring 2026, flexible",
+      "message": "Tell Us About Your Dream Journey",
+      "messagePlaceholder": "Share your interests, travel style, group size, or any special requirements...",
+      "submit": "Send Enquiry",
+      "sending": "Sending...",
+      "success": "Thank you for your enquiry! We'll be in touch within 48 hours.",
+      "error": "Something went wrong. Please try again or email us directly.",
+      "required": "Required"
+    },
+    "info": {
+      "title": "Other Ways to Reach Us",
+      "email": {
+        "label": "Email",
+        "value": "hello@asiacuratedtravel.com"
+      },
+      "phone": {
+        "label": "Phone",
+        "value": "+33 1 23 45 67 89"
+      },
+      "hours": {
+        "label": "Office Hours",
+        "value": "Monday – Friday, 9:00 – 18:00 CET"
+      },
+      "response": {
+        "label": "Response Time",
+        "value": "Within 48 hours"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Bespoke luxury travel in Taiwan, Hong Kong & China",
+    "navigation": "Navigation",
+    "connect": "Connect",
+    "copyright": "© 2026 Asia Curated Travel. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "getInTouch": "Get in Touch",
+    "viewAll": "View All",
+    "backToTop": "Back to Top"
+  }
+}

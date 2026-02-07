@@ -1,0 +1,321 @@
+{
+  "meta": {
+    "siteTitle": "Asia Curated Travel",
+    "siteDescription": "Expériences de voyage sur mesure à Taiwan, Hong Kong et en Chine, pour les voyageurs les plus exigeants.",
+    "home": {
+      "title": "Asia Curated Travel — Voyages sur mesure à Taiwan, Hong Kong et en Chine",
+      "description": "Découvrez des expériences de voyage d'exception, conçues pour les voyageurs exigeants. Circuits privés, immersion culturelle et luxe raffiné à travers l'Asie."
+    },
+    "howItWorks": {
+      "title": "Notre Approche — Asia Curated Travel",
+      "description": "De la première consultation à votre retour, découvrez notre processus en quatre étapes pour créer votre voyage idéal en Asie."
+    },
+    "travelStyles": {
+      "title": "Styles de Voyage — Asia Curated Travel",
+      "description": "Explorez nos itinéraires soigneusement élaborés et nos voyages entièrement personnalisés à Taiwan, Hong Kong et en Chine."
+    },
+    "experiences": {
+      "title": "Expériences — Asia Curated Travel",
+      "description": "Aventures culinaires, découvertes culturelles, promenades pittoresques et art de vivre local — plongez au cœur de l'Asie authentique."
+    },
+    "about": {
+      "title": "À Propos — Asia Curated Travel",
+      "description": "Rencontrez l'équipe d'Asia Curated Travel. Des décennies d'expertise sur le terrain pour créer des voyages inoubliables."
+    },
+    "contact": {
+      "title": "Contactez-nous — Asia Curated Travel",
+      "description": "Commencez à planifier votre voyage sur mesure en Asie. Prenez contact avec nos conseillers dès aujourd'hui."
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "howItWorks": "Notre Approche",
+    "travelStyles": "Styles de Voyage",
+    "experiences": "Expériences",
+    "about": "À Propos",
+    "contact": "Contact",
+    "menuOpen": "Ouvrir le menu",
+    "menuClose": "Fermer le menu",
+    "languageSelect": "Choisir la langue",
+    "skipToContent": "Aller au contenu principal"
+  },
+  "home": {
+    "hero": {
+      "headline": "Voyages d'Exception à Travers l'Asie",
+      "subheadline": "Des expériences de voyage sur mesure à Taiwan, Hong Kong et en Chine — conçues pour les voyageurs exigeants en quête d'authenticité et d'excellence.",
+      "cta": "Commencez Votre Voyage"
+    },
+    "services": {
+      "title": "Conçu avec Soin",
+      "subtitle": "Chaque voyage commence par la compréhension de votre vision",
+      "curated": {
+        "title": "Itinéraires sur Mesure",
+        "description": "Des voyages pensés avec soin, alliant sites emblématiques et trésors cachés, adaptés à votre rythme et à vos préférences."
+      },
+      "expertise": {
+        "title": "Expertise Locale",
+        "description": "Une connaissance approfondie du terrain, assurée par notre équipe de spécialistes régionaux, pour des rencontres authentiques et enrichissantes."
+      },
+      "seamless": {
+        "title": "Une Expérience Fluide",
+        "description": "Des transferts privés aux hébergements triés sur le volet, chaque détail est organisé pour que vous puissiez simplement profiter du voyage."
+      }
+    },
+    "destinations": {
+      "title": "Nos Destinations",
+      "subtitle": "Trois coins remarquables de l'Asie",
+      "taiwan": {
+        "title": "Taiwan",
+        "description": "Un véritable trésor de beautés naturelles, de temples ancestraux et de l'une des scènes culinaires les plus raffinées au monde — des marchés nocturnes aux tables étoilées Michelin."
+      },
+      "hongkong": {
+        "title": "Hong Kong",
+        "description": "Là où l'Orient rencontre l'Occident dans une fusion éblouissante de culture, de gastronomie et d'énergie urbaine — avec des îles paisibles et des sentiers à deux pas."
+      },
+      "china": {
+        "title": "Chine",
+        "description": "Une civilisation millénaire réinventée — de la Grande Muraille aux montagnes brumeuses, des palais impériaux aux métropoles vibrantes d'aujourd'hui."
+      },
+      "explore": "Découvrir"
+    },
+    "why": {
+      "title": "Pourquoi Voyager avec Nous",
+      "subtitle": "La différence réside dans les détails",
+      "points": [
+        "Plus de 15 ans d'expérience sur le terrain en Asie",
+        "Hôtels, restaurants et guides personnellement sélectionnés",
+        "Service de conciergerie disponible 24h/24 tout au long de votre voyage",
+        "Une équipe à taille humaine — votre conseiller vous connaît par votre nom",
+        "Nous parlons couramment le français, l'anglais et le mandarin"
+      ]
+    },
+    "cta": {
+      "title": "Prêt à Découvrir l'Asie ?",
+      "description": "Parlez-nous de votre voyage de rêve. Nos conseillers vous adresseront une proposition personnalisée sous 48 heures.",
+      "button": "Contactez-nous"
+    }
+  },
+  "howItWorks": {
+    "hero": {
+      "title": "Notre Approche",
+      "subtitle": "De la première conversation aux souvenirs inoubliables"
+    },
+    "steps": {
+      "step1": {
+        "number": "01",
+        "title": "Consultation Initiale",
+        "description": "Nous débutons par un échange personnel pour comprendre vos aspirations de voyage, vos préférences et vos éventuelles exigences particulières. Par téléphone, visioconférence ou e-mail — nous vous écoutons attentivement."
+      },
+      "step2": {
+        "number": "02",
+        "title": "Proposition Sur Mesure",
+        "description": "Sous 48 heures, vous recevez un itinéraire détaillé et personnalisé, conçu autour de vos centres d'intérêt. Nous incluons nos recommandations d'hébergement, nos suggestions d'expériences et une tarification transparente."
+      },
+      "step3": {
+        "number": "03",
+        "title": "Affiner et Confirmer",
+        "description": "Nous peaufinons ensemble chaque détail jusqu'à ce que le voyage soit parfait. Une fois confirmé, nous prenons en charge l'ensemble des réservations, de la logistique et des arrangements spéciaux."
+      },
+      "step4": {
+        "number": "04",
+        "title": "Voyager et Savourer",
+        "description": "Votre voyage se déroule en toute sérénité grâce à notre conciergerie disponible 24h/24. Sur place, notre équipe locale veille à ce que chaque instant dépasse vos attentes."
+      }
+    },
+    "cta": {
+      "title": "Commencez Votre Voyage Dès Aujourd'hui",
+      "description": "La première étape est de nous contacter. Nous serions ravis d'écouter vos rêves de voyage.",
+      "button": "Contactez-nous"
+    }
+  },
+  "travelStyles": {
+    "hero": {
+      "title": "Styles de Voyage",
+      "subtitle": "Choisissez votre chemin vers la découverte"
+    },
+    "curated": {
+      "title": "Itinéraires Élaborés",
+      "subtitle": "Des voyages conçus par nos experts pour vous inspirer",
+      "packages": {
+        "classic": {
+          "title": "Découverte Classique de Taiwan",
+          "duration": "10 jours",
+          "description": "De la culture vibrante de Taipei à la sérénité du Sun Moon Lake, découvrez les incontournables de Taiwan avec un accès privilégié."
+        },
+        "hongkong": {
+          "title": "Hong Kong et Au-delà",
+          "duration": "7 jours",
+          "description": "L'énergie éblouissante de la ville associée aux îles paisibles, aux villages patrimoniaux et à une gastronomie de classe mondiale."
+        },
+        "silk": {
+          "title": "Patrimoine de la Route de la Soie",
+          "duration": "14 jours",
+          "description": "Parcourez les anciennes routes commerciales de la Chine — des guerriers en terre cuite de Xi'an aux oasis désertiques de Dunhuang."
+        },
+        "grand": {
+          "title": "Grand Circuit Asiatique",
+          "duration": "21 jours",
+          "description": "Le voyage multi-destinations par excellence, réunissant le meilleur de Taiwan, Hong Kong et de la Chine continentale."
+        }
+      }
+    },
+    "personalized": {
+      "title": "Voyages Personnalisés",
+      "subtitle": "Votre vision, notre savoir-faire",
+      "description": "Chaque voyageur est unique. Notre service de voyages personnalisés crée un itinéraire entièrement sur mesure, conçu autour de vos centres d'intérêt, de votre rythme et de votre style de voyage. D'une escapade romantique à une aventure familiale multigénérationnelle — nous imaginons tout de A à Z.",
+      "features": [
+        "Dates et durée entièrement flexibles",
+        "Hébergements triés sur le volet selon vos goûts",
+        "Guides privés et expériences exclusives",
+        "Prise en compte des régimes alimentaires et de l'accessibilité",
+        "Logistique multi-destinations parfaitement orchestrée"
+      ],
+      "cta": "Concevez Votre Voyage"
+    },
+    "cta": {
+      "title": "Trouvez Votre Style Idéal",
+      "description": "Vous ne savez pas par où commencer ? Nos conseillers vous aideront à trouver le voyage qui vous correspond.",
+      "button": "Contactez-nous"
+    }
+  },
+  "experiences": {
+    "hero": {
+      "title": "Expériences",
+      "subtitle": "Plongez au cœur de l'Asie authentique"
+    },
+    "intro": "Nos expériences vont bien au-delà du tourisme classique. Nous vous mettons en relation avec les personnes, les traditions et les saveurs qui rendent chaque destination extraordinaire.",
+    "culinary": {
+      "title": "Voyages Culinaires",
+      "description": "Des marchés nocturnes animés aux tables privées de grands chefs, explorez l'extraordinaire culture gastronomique de l'Asie. Apprenez l'art de la confection des raviolis avec une grand-mère locale, visitez des plantations de thé à l'aube, ou dînez dans les plus grands restaurants étoilés Michelin d'Asie.",
+      "highlights": ["Circuits gastronomiques des marchés nocturnes", "Cours de cuisine privés", "Cérémonies du thé", "Réservations dans les restaurants étoilés Michelin"]
+    },
+    "cultural": {
+      "title": "Découvertes Culturelles",
+      "description": "Pénétrez dans l'histoire vivante à travers des cérémonies dans les temples, des ateliers d'arts traditionnels et des rencontres avec des artisans locaux. Des maîtres calligraphes aux séjours en temple, ces expériences offrent une connexion profonde avec le riche patrimoine asiatique.",
+      "highlights": ["Cérémonies et séjours en temple", "Ateliers d'arts traditionnels", "Visites du patrimoine architectural", "Célébrations de festivals"]
+    },
+    "walking": {
+      "title": "Randonnées et Nature",
+      "description": "Découvrez les paysages à couper le souffle de l'Asie à pied — des gorges de Taroko à Taiwan aux sentiers côtiers spectaculaires de Hong Kong. Nos promenades guidées vont de la flânerie patrimoniale aux randonnées de montagne revigorantes.",
+      "highlights": ["Aventures sur les sentiers de montagne", "Promenades sur les sentiers côtiers", "Flâneries dans les quartiers historiques", "Explorations des parcs nationaux"]
+    },
+    "localLife": {
+      "title": "Art de Vivre Local",
+      "description": "Vivez le quotidien comme les habitants — visitez les marchés matinaux avec un chef, participez à une séance de tai-chi dans le parc, explorez des ateliers d'artisans, ou partagez des histoires autour d'un thé avec une famille locale. Ces moments d'authenticité créent les souvenirs les plus précieux.",
+      "highlights": ["Visites des marchés matinaux", "Découverte d'ateliers d'artisans", "Rencontres avec des familles locales", "Exploration des quartiers"]
+    },
+    "cta": {
+      "title": "Curieux de Découvrir Nos Expériences ?",
+      "description": "Chaque expérience peut être intégrée à n'importe quel itinéraire. Dites-nous ce qui vous passionne.",
+      "button": "Engageons la Conversation"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "À Propos",
+      "subtitle": "Passionnés par l'Asie, dévoués à votre service"
+    },
+    "story": {
+      "title": "Notre Histoire",
+      "paragraphs": [
+        "Asia Curated Travel est née d'une conviction simple : les expériences de voyage les plus enrichissantes naissent d'une compréhension authentique — d'un lieu, de ses habitants et du voyageur lui-même.",
+        "Fondée par une équipe de spécialistes de l'Asie profondément enracinés à Taiwan, Hong Kong et en Chine, nous créons le lien entre les voyageurs occidentaux et l'extraordinaire richesse de l'Asie de l'Est.",
+        "Nous ne sommes pas une agence grand public. Nous sommes un cabinet de conseil à taille humaine, composé de passionnés qui connaissent personnellement chaque hôtel que nous recommandons, chaque guide que nous engageons et chaque expérience que nous proposons."
+      ]
+    },
+    "team": {
+      "title": "Notre Équipe",
+      "subtitle": "Les artisans de votre voyage",
+      "members": {
+        "founder": {
+          "name": "Sophie Laurent",
+          "role": "Fondatrice et Consultante Principale",
+          "description": "Forte de 18 années partagées entre Paris et Taipei, Sophie apporte une double perspective inégalée sur le voyage de luxe en Asie."
+        },
+        "operations": {
+          "name": "James Chen",
+          "role": "Directeur des Opérations",
+          "description": "Né à Hong Kong et formé à Londres, James veille à ce que chaque détail logistique soit exécuté avec une précision absolue."
+        },
+        "china": {
+          "name": "Li Wei",
+          "role": "Spécialiste de la Chine",
+          "description": "Ancien historien devenu concepteur de voyages, Li Wei révèle aux voyageurs curieux les histoires cachées de la Chine."
+        }
+      }
+    },
+    "trust": {
+      "title": "Pourquoi Nos Clients Nous Font Confiance",
+      "indicators": [
+        { "value": "15+", "label": "Années d'Expérience" },
+        { "value": "500+", "label": "Voyages Conçus" },
+        { "value": "98%", "label": "Satisfaction Client" },
+        { "value": "3", "label": "Langues Parlées" }
+      ]
+    },
+    "cta": {
+      "title": "Rencontrons-nous lors d'un Appel",
+      "description": "Nous croyons que les plus beaux voyages commencent par une conversation. Sans pression, sans engagement — simplement un échange amical autour de vos rêves de voyage.",
+      "button": "Planifier une Consultation"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contactez-nous",
+      "subtitle": "Commençons à planifier votre voyage"
+    },
+    "form": {
+      "title": "Envoyez-nous un Message",
+      "name": "Nom Complet",
+      "namePlaceholder": "Votre nom complet",
+      "email": "Adresse E-mail",
+      "emailPlaceholder": "votre@email.com",
+      "phone": "Numéro de Téléphone",
+      "phonePlaceholder": "+33 6 12 34 56 78",
+      "destination": "Destination(s) Souhaitée(s)",
+      "destinationPlaceholder": "ex. Taiwan, Hong Kong, Chine",
+      "dates": "Dates de Voyage Approximatives",
+      "datesPlaceholder": "ex. Printemps 2026, flexible",
+      "message": "Parlez-nous de Votre Voyage de Rêve",
+      "messagePlaceholder": "Partagez vos centres d'intérêt, votre style de voyage, la taille de votre groupe ou toute exigence particulière...",
+      "submit": "Envoyer la Demande",
+      "sending": "Envoi en cours...",
+      "success": "Merci pour votre demande ! Nous vous recontacterons sous 48 heures.",
+      "error": "Une erreur est survenue. Veuillez réessayer ou nous écrire directement par e-mail.",
+      "required": "Obligatoire"
+    },
+    "info": {
+      "title": "Autres Moyens de Nous Joindre",
+      "email": {
+        "label": "E-mail",
+        "value": "hello@asiacuratedtravel.com"
+      },
+      "phone": {
+        "label": "Téléphone",
+        "value": "+33 1 23 45 67 89"
+      },
+      "hours": {
+        "label": "Horaires d'Ouverture",
+        "value": "Lundi – Vendredi, 9h00 – 18h00 CET"
+      },
+      "response": {
+        "label": "Délai de Réponse",
+        "value": "Sous 48 heures"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Voyages de luxe sur mesure à Taiwan, Hong Kong et en Chine",
+    "navigation": "Navigation",
+    "connect": "Nous Suivre",
+    "copyright": "© 2026 Asia Curated Travel. Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions Générales"
+  },
+  "common": {
+    "learnMore": "En Savoir Plus",
+    "getInTouch": "Contactez-nous",
+    "viewAll": "Tout Voir",
+    "backToTop": "Retour en Haut"
+  }
+}

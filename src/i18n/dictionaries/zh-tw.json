@@ -1,0 +1,321 @@
+{
+  "meta": {
+    "siteTitle": "Asia Curated Travel 亞洲精選旅遊",
+    "siteDescription": "為品味非凡的旅行者打造臺灣、香港及中國的頂級訂製旅遊體驗。",
+    "home": {
+      "title": "Asia Curated Travel — 臺灣、香港與中國的訂製旅程",
+      "description": "探索為品味獨到的旅行者精心策劃的非凡旅遊體驗。私人導覽、文化深度體驗，以及橫跨亞洲的極致奢華之旅。"
+    },
+    "howItWorks": {
+      "title": "服務流程 — Asia Curated Travel",
+      "description": "從初次諮詢到旅程歸來，了解我們如何透過四個步驟為您打造完美的亞洲旅遊體驗。"
+    },
+    "travelStyles": {
+      "title": "旅行風格 — Asia Curated Travel",
+      "description": "探索我們精心策劃的旅遊套裝行程，以及橫跨臺灣、香港與中國的全客製化旅程。"
+    },
+    "experiences": {
+      "title": "精選體驗 — Asia Curated Travel",
+      "description": "美食探索、文化發現、自然漫步與道地生活——沉浸於真實的亞洲之美。"
+    },
+    "about": {
+      "title": "關於我們 — Asia Curated Travel",
+      "description": "認識 Asia Curated Travel 的專業團隊。數十年深耕在地的豐富經驗，為您締造難忘旅程。"
+    },
+    "contact": {
+      "title": "聯繫我們 — Asia Curated Travel",
+      "description": "開始規劃您的專屬亞洲旅程。立即與我們的旅遊顧問聯繫。"
+    }
+  },
+  "nav": {
+    "home": "首頁",
+    "howItWorks": "服務流程",
+    "travelStyles": "旅行風格",
+    "experiences": "精選體驗",
+    "about": "關於我們",
+    "contact": "聯繫我們",
+    "menuOpen": "開啟選單",
+    "menuClose": "關閉選單",
+    "languageSelect": "選擇語言",
+    "skipToContent": "跳至主要內容"
+  },
+  "home": {
+    "hero": {
+      "headline": "亞洲非凡之旅",
+      "subheadline": "臺灣、香港與中國的訂製旅遊體驗——專為追求真實與卓越的旅行者而設。",
+      "cta": "開啟您的旅程"
+    },
+    "services": {
+      "title": "用心打造",
+      "subtitle": "每一段旅程，始於傾聽您的願景",
+      "curated": {
+        "title": "精心策劃行程",
+        "description": "周全設計的旅程，在經典地標與私房秘境之間取得完美平衡，一切依照您的節奏與喜好量身打造。"
+      },
+      "expertise": {
+        "title": "在地專業知識",
+        "description": "我們的區域專家團隊擁有豐富的在地深度知識，確保每一次邂逅都真摯而富有意義。"
+      },
+      "seamless": {
+        "title": "無縫體驗",
+        "description": "從專車接送到嚴選住宿，每一個細節皆為您悉心安排，讓您盡情享受旅途的美好。"
+      }
+    },
+    "destinations": {
+      "title": "我們的目的地",
+      "subtitle": "亞洲三處令人嚮往的角落",
+      "taiwan": {
+        "title": "臺灣",
+        "description": "自然美景的寶庫、古老廟宇的薈萃，更擁有舉世無雙的美食文化——從夜市小吃到米其林星級餐廳，應有盡有。"
+      },
+      "hongkong": {
+        "title": "香港",
+        "description": "東西方文化在此交匯，融合出令人目眩的文化、美食與都會活力——靜謐的離島與山徑近在咫尺。"
+      },
+      "china": {
+        "title": "中國",
+        "description": "古老文明的嶄新風貌——從萬里長城到雲霧繚繞的山巒，從帝王宮殿到活力四射的現代都市。"
+      },
+      "explore": "探索更多"
+    },
+    "why": {
+      "title": "為何選擇我們",
+      "subtitle": "卓越，源於對細節的執著",
+      "points": [
+        "超過 15 年的亞洲在地深耕經驗",
+        "每一間飯店、餐廳及導遊均經親自甄選",
+        "旅途全程提供 24 小時貼心禮賓服務",
+        "精緻小團隊——您的顧問記得您的名字",
+        "精通英語、法語及中文"
+      ]
+    },
+    "cta": {
+      "title": "準備好探索亞洲了嗎？",
+      "description": "告訴我們您的夢想旅程，我們的顧問將在 48 小時內為您量身打造專屬提案。",
+      "button": "立即聯繫"
+    }
+  },
+  "howItWorks": {
+    "hero": {
+      "title": "服務流程",
+      "subtitle": "從初次對話到珍貴回憶"
+    },
+    "steps": {
+      "step1": {
+        "number": "01",
+        "title": "初步諮詢",
+        "description": "我們從一場私人對話開始，深入了解您的旅行願望、偏好及任何特殊需求。無論透過電話、視訊或電子郵件——我們都用心傾聽。"
+      },
+      "step2": {
+        "number": "02",
+        "title": "量身訂製提案",
+        "description": "48 小時內，您將收到一份圍繞您興趣精心打造的詳細訂製行程，包含住宿推薦、體驗建議及透明報價。"
+      },
+      "step3": {
+        "number": "03",
+        "title": "精煉與確認",
+        "description": "我們攜手雕琢每一個細節，直到旅程臻於完美。確認後，我們將代您處理所有預訂、交通安排及特殊事宜。"
+      },
+      "step4": {
+        "number": "04",
+        "title": "啟程與享受",
+        "description": "您的旅程在我們全天候禮賓服務的陪伴下從容展開。在地團隊確保每一刻都超越您的期待。"
+      }
+    },
+    "cta": {
+      "title": "今天就開啟您的旅程",
+      "description": "第一步，只需與我們聯繫。我們期待聆聽您的旅行夢想。",
+      "button": "聯繫我們"
+    }
+  },
+  "travelStyles": {
+    "hero": {
+      "title": "旅行風格",
+      "subtitle": "選擇您的探索之道"
+    },
+    "curated": {
+      "title": "精選套裝行程",
+      "subtitle": "由專家精心設計，為您帶來靈感",
+      "packages": {
+        "classic": {
+          "title": "經典臺灣探索之旅",
+          "duration": "10 天",
+          "description": "從臺北的繽紛文化到日月潭的寧靜致遠，以獨家視角體驗臺灣的精華亮點。"
+        },
+        "hongkong": {
+          "title": "香港及周邊深度之旅",
+          "duration": "7 天",
+          "description": "感受都市的璀璨活力，同時探訪靜謐離島、傳統村落與世界級的餐飲體驗。"
+        },
+        "silk": {
+          "title": "絲路文化遺產之旅",
+          "duration": "14 天",
+          "description": "穿越中國古老的貿易之路——從西安的兵馬俑到敦煌的沙漠綠洲。"
+        },
+        "grand": {
+          "title": "亞洲壯遊環線",
+          "duration": "21 天",
+          "description": "終極多目的地旅程，匯集臺灣、香港與中國大陸的精華。"
+        }
+      }
+    },
+    "personalized": {
+      "title": "個人訂製旅程",
+      "subtitle": "您的願景，我們的專業",
+      "description": "每位旅行者都獨一無二。我們的訂製旅程服務將根據您的興趣、節奏與旅行風格，從零開始打造專屬行程。無論是浪漫雙人之旅或跨世代的家族探險——我們為您全面規劃。",
+      "features": [
+        "日期與天數完全彈性",
+        "依照您的風格嚴選住宿",
+        "私人導遊與獨家體驗",
+        "飲食需求與無障礙設施的周全考量",
+        "多目的地之間的無縫銜接"
+      ],
+      "cta": "設計您的旅程"
+    },
+    "cta": {
+      "title": "找到最適合您的旅行風格",
+      "description": "不確定從何開始？我們的顧問將協助您探索最契合的旅程。",
+      "button": "立即聯繫"
+    }
+  },
+  "experiences": {
+    "hero": {
+      "title": "精選體驗",
+      "subtitle": "沉浸於真實的亞洲之美"
+    },
+    "intro": "我們的體驗遠超一般觀光。我們帶您深入認識當地的人文、傳統與風味，感受每個目的地的非凡魅力。",
+    "culinary": {
+      "title": "美食之旅",
+      "description": "從熱鬧的夜市到私人主廚餐桌，探索亞洲非凡的飲食文化。與在地奶奶學習包餃子的技藝、在晨曦中造訪茶園，或在亞洲頂尖米其林星級餐廳饗宴。",
+      "highlights": ["夜市美食之旅", "私人烹飪課程", "茶道體驗", "米其林餐廳訂位"]
+    },
+    "cultural": {
+      "title": "文化探索",
+      "description": "透過寺廟儀式、傳統工藝工作坊及與在地匠人的交流，走入活的歷史。從書法大師到寺院住宿，這些體驗將帶領您深刻連結亞洲豐厚的文化底蘊。",
+      "highlights": ["寺廟儀式與住宿", "傳統工藝工作坊", "歷史建築巡禮", "節慶文化體驗"]
+    },
+    "walking": {
+      "title": "健行與自然",
+      "description": "徒步探索亞洲令人屏息的壯麗景觀——從臺灣的太魯閣峽谷到香港壯闊的海岸步道。我們的導覽健行涵蓋悠閒的古蹟散步到活力十足的山岳縱走。",
+      "highlights": ["山岳步道探險", "海岸步道漫步", "歷史街區散策", "國家公園探索"]
+    },
+    "localLife": {
+      "title": "在地生活",
+      "description": "像當地人一樣體驗日常——與主廚同遊晨間市場、在公園裡加入太極晨練、探訪匠人工坊，或與在地家庭品茶話家常。這些真摯的時刻，將成為最珍貴的回憶。",
+      "highlights": ["晨間市場巡禮", "匠人工坊參訪", "在地家庭交流", "街區深度探索"]
+    },
+    "cta": {
+      "title": "對我們的體驗感到好奇嗎？",
+      "description": "每項體驗都可融入任何行程之中。告訴我們什麼最令您心動。",
+      "button": "展開對話"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "關於我們",
+      "subtitle": "熱愛亞洲，專注為您"
+    },
+    "story": {
+      "title": "我們的故事",
+      "paragraphs": [
+        "Asia Curated Travel 亞洲精選旅遊源自一個純粹的信念：最有意義的旅行體驗，來自對一個地方、當地人民及旅行者的真正理解。",
+        "由一群深耕臺灣、香港與中國的亞洲旅遊專家所創立，我們為西方旅行者與東亞的豐富精彩之間搭建橋樑。",
+        "我們不是大眾旅行社。我們是一支充滿熱忱的精緻顧問團隊，親自了解我們推薦的每一間飯店、每一位導遊、每一項體驗。"
+      ]
+    },
+    "team": {
+      "title": "我們的團隊",
+      "subtitle": "旅程背後的靈魂人物",
+      "members": {
+        "founder": {
+          "name": "Sophie Laurent",
+          "role": "創辦人暨首席顧問",
+          "description": "在巴黎與臺北之間生活了 18 年，Sophie 為亞洲頂級旅遊帶來無可比擬的雙重視角。"
+        },
+        "operations": {
+          "name": "James Chen",
+          "role": "營運總監",
+          "description": "生於香港、受教於倫敦，James 確保每一個後勤細節都精準到位。"
+        },
+        "china": {
+          "name": "Li Wei",
+          "role": "中國旅遊專家",
+          "description": "從歷史學者轉身旅遊設計師，Li Wei 為好奇的旅行者揭開中國不為人知的故事。"
+        }
+      }
+    },
+    "trust": {
+      "title": "客戶信賴我們的理由",
+      "indicators": [
+        { "value": "15+", "label": "年深耕經驗" },
+        { "value": "500+", "label": "精心策劃旅程" },
+        { "value": "98%", "label": "客戶滿意度" },
+        { "value": "3", "label": "種服務語言" }
+      ]
+    },
+    "cta": {
+      "title": "與我們線上會面",
+      "description": "我們相信最美好的旅程始於一場對話。沒有壓力、沒有拘束——只是一場關於您旅行夢想的輕鬆交流。",
+      "button": "預約諮詢"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "聯繫我們",
+      "subtitle": "讓我們開始規劃您的旅程"
+    },
+    "form": {
+      "title": "傳送訊息給我們",
+      "name": "姓名",
+      "namePlaceholder": "請輸入您的全名",
+      "email": "電子郵件",
+      "emailPlaceholder": "your@email.com",
+      "phone": "聯絡電話",
+      "phonePlaceholder": "+886 912 345 678",
+      "destination": "感興趣的目的地",
+      "destinationPlaceholder": "例如：臺灣、香港、中國",
+      "dates": "預計旅行日期",
+      "datesPlaceholder": "例如：2026 年春季，日期彈性",
+      "message": "描述您的夢想旅程",
+      "messagePlaceholder": "請分享您的興趣、旅行風格、同行人數或任何特殊需求⋯⋯",
+      "submit": "送出諮詢",
+      "sending": "傳送中⋯⋯",
+      "success": "感謝您的諮詢！我們將在 48 小時內與您聯繫。",
+      "error": "發生了一些問題。請重新嘗試或直接發送電子郵件與我們聯繫。",
+      "required": "必填"
+    },
+    "info": {
+      "title": "其他聯繫方式",
+      "email": {
+        "label": "電子郵件",
+        "value": "hello@asiacuratedtravel.com"
+      },
+      "phone": {
+        "label": "電話",
+        "value": "+33 1 23 45 67 89"
+      },
+      "hours": {
+        "label": "服務時間",
+        "value": "週一至週五，9:00 – 18:00（中歐時間）"
+      },
+      "response": {
+        "label": "回覆時間",
+        "value": "48 小時內"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "臺灣、香港與中國的訂製奢華旅遊",
+    "navigation": "網站導覽",
+    "connect": "與我們聯繫",
+    "copyright": "© 2026 Asia Curated Travel 亞洲精選旅遊。保留一切權利。",
+    "privacy": "隱私權政策",
+    "terms": "服務條款"
+  },
+  "common": {
+    "learnMore": "了解更多",
+    "getInTouch": "立即聯繫",
+    "viewAll": "查看全部",
+    "backToTop": "回到頂部"
+  }
+}
